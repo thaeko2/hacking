@@ -1,26 +1,15 @@
-# Thae Ko Ko
-တက်ရောက်နိုင်သော သင်တန်းများ
 
-<br>
+
+# Thae Ko Ko
+
 
 <div align = center>
 
-[![Badge License]][License]   
-[![Badge Likes]][#]
 
-<br>
-<br>
-    
-# Buttons
-         
-**Links  ➞  Buttons**
 
-<br>
-<br>
+<kbd> <br> KeyBinding Button <br> </kbd>]
 
-[<kbd> <br> KeyBinding Button <br> </kbd>][KBD]
 
-[![Button Shield]][Shield]
 
 </div>
 
