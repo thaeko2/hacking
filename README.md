@@ -1,13 +1,14 @@
 
 
-# Thae Ko Ko
+# Thae Ko Ko - 09666662166
 
 
 <div align = center>
 
 ![photo](https://github.com/thaeko2/hacking/blob/main/androidhacking.png)
 
-<kbd> <br> KeyBinding Button <br> </kbd>]
+
+<kbd> <br> KeyBinding Button <br> </kbd>
 
 
 
